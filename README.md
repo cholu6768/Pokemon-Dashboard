@@ -16,4 +16,6 @@ The [data source](https://www.kaggle.com/datasets/mariotormo/complete-pokemon-da
 
 Even though I was not able to replicate the dashboard 1 to 1, I was able to add a lot of the details from the original dashboard. This is just a small project to showcase my skills and what am capable of.
 
+To see my Dashboard please click [here](https://cholu6768-pokemon-dashboard-pokemon-dashboard-hpzh9i.streamlitapp.com/).
+
 ![Streamlit Dashboard](images_readme/streamlit_dashboard.png)
