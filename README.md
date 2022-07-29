@@ -10,7 +10,7 @@ To showcase my skills with Streamlit and Plotly, I tried to recreate a [Tableau 
 
 Since the dashboard only included data up to Generation 6, I decided to use updated data. My dashboard includes data up to **Generation 8**.
 
-The [data source](https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420/metadata) comes from Kaggle which was created by the user [Mario Tormo Romero](https://www.kaggle.com/mariotormo).
+The [data source](https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420/metadata) is publicly available in Kaggle. The dataset was created by the user [Mario Tormo Romero](https://www.kaggle.com/mariotormo).
 
 # 🔮 Final Output
 
